@@ -50,6 +50,9 @@ const liens = nx.splitlines(str);
 */
 ```
 
+## resources
+- https://stackoverflow.com/questions/21895233/how-in-node-to-split-string-by-newline-n
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/next-splitlines/blob/master/LICENSE.txt).
 

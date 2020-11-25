@@ -5,7 +5,7 @@
 ` or `` for next.
  * homepage: https://github.com/afeiship/next-splitlines
  * version: 1.0.0
- * date: 2020-11-25 13:28:32
+ * date: 2020-11-25 13:30:18
  * license: MIT
  */
 
