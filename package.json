@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-splitlines",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Split string by `\r\n` or `\n` or `\r` for next.",
   "homepage": "https://github.com/afeiship/next-splitlines",
   "author": {
